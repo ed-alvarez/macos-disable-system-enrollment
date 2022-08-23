@@ -3,7 +3,7 @@
 Ever found a Macbook locked by this mechanism? Simply boot into recovery mode. Open up a shell, and run the following
 commands in the same order:
 
-> ⚠️** You must disable SIP first**
+> ⚠️ You must disable SIP first
 
 ```
 sudo mount -uw /
